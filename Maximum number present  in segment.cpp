@@ -32,3 +32,7 @@ int main()
     }
     return 0;
 }
+
+
+
+example:https://codeforces.com/contest/1884/my
